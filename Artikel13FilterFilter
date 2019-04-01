@@ -1,0 +1,36 @@
+# Artikel13 Uploadfilter Filter-Liste
+#
+#Die folgende Liste, soll all diejenigen enthalten, die entweder aktiv an Artikel 13 mitgewirkt haben, oder nicht entschlossen genug dagegen gekämpft haben.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# SERVERS START HERE
+#
+##CDU
+127.0.0.1	cdu.de
+##CSU
+127.0.0.1	csu.de
+##SPD
+127.0.0.1	spd.de
+##Sueddeutsche
+127.0.0.1	sz.de
+127.0.0.1	sueddeutsche.de
+##FAZ
+127.0.0.1	faz.de
+##BILD
+127.0.0.1	bild.de
+##Axel-SpringerSE
+127.0.0.1	autohaus24.de
+127.0.0.1 meinestadt.de
+127.0.0.1 immowelt.de
+127.0.0.1 stepstone.de
+127.0.0.1 ozy.com
+127.0.0.1 finanzen.net
+127.0.0.1 idealo.de
+127.0.0.1 n24.de
+127.0.0.1 ladenzeile.de
+127.0.0.1 transfermarkt.de
+#
+#END OF LIST
+#
