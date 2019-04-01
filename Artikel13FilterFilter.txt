@@ -20,6 +20,8 @@
 127.0.0.1	faz.de
 ##BILD
 127.0.0.1	bild.de
+##GEMA
+127.0.0.1 gema.de
 ##Axel-SpringerSE
 127.0.0.1	autohaus24.de
 127.0.0.1 meinestadt.de
