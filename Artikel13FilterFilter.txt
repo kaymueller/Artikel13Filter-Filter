@@ -9,12 +9,7 @@
 #
 ##CDU
 127.0.0.1 cdu.de
-127.0.0.1 wikipedia.org/wiki/Burkhard_Balz
-127.0.0.1 bundesbank.de/de/bundesbank/organisation/vorstand/burkhard-balz
-127.0.0.1 europarl.europa.eu/meps/de/96997/*
 127.0.0.1 reimer-boege.eu
-127.0.0.1 europarl.europa.eu/meps/de/1037/*
-127.0.0.1 wikipedia.org/wiki/Reimer_Böge
 ##CSU
 127.0.0.1 csu.de
 ##SPD
